@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.sinclele.online/posts/0.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/posts/0.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/posts/0.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/posts/0.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sinclele.online/categories/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -11,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/index.html</loc>
+    <loc>https://www.sinclele.online/personal/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -20,7 +56,25 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/box/animation/index.html</loc>
+    <loc>https://www.sinclele.online/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/tags/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -47,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sinclele.online/life/games/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -65,25 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/site/time/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/social/fcircle/index.html</loc>
+    <loc>https://www.sinclele.online/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -101,7 +128,25 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/personal/bb/index.html</loc>
+    <loc>https://www.sinclele.online/site/time/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/life/music/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -119,16 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/personal/about/index.html</loc>
+    <loc>https://www.sinclele.online/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
