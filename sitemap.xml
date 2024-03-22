@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/posts/14e6f1eb.html</loc>
+    <loc>https://www.sinclele.online/posts/96555fb2.html</loc>
     
     <lastmod>2024-03-22</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/posts/c2a5fdc5.html</loc>
+    <loc>https://www.sinclele.online/posts/14e6f1eb.html</loc>
     
     <lastmod>2024-03-22</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/posts/96555fb2.html</loc>
+    <loc>https://www.sinclele.online/posts/c2a5fdc5.html</loc>
     
     <lastmod>2024-03-22</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/posts/e95a0875.html</loc>
+    <loc>https://www.sinclele.online/posts/c97c4a6b.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/posts/c97c4a6b.html</loc>
+    <loc>https://www.sinclele.online/posts/e95a0875.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -263,16 +263,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/personal/love/index.html</loc>
+    <loc>https://www.sinclele.online/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -290,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/life/movies/index.html</loc>
+    <loc>https://www.sinclele.online/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -299,7 +290,16 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/life/music/index.html</loc>
+    <loc>https://www.sinclele.online/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/personal/bb/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -335,20 +335,6 @@
 
   
   <url>
-    <loc>https://www.sinclele.online/tags/API%E8%A7%A3%E6%9E%90PDF/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/tags/Hudi/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sinclele.online/tags/Docker/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -363,6 +349,13 @@
   </url>
   
   <url>
+    <loc>https://www.sinclele.online/tags/Hudi/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sinclele.online/tags/Mysql%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -370,7 +363,21 @@
   </url>
   
   <url>
+    <loc>https://www.sinclele.online/tags/API%E8%A7%A3%E6%9E%90PDF/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sinclele.online/tags/Redis/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/tags/CDH/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -391,20 +398,6 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/CDH/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sinclele.online/tags/Kafka/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sinclele.online/tags/kylin/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -419,6 +412,13 @@
   </url>
   
   <url>
+    <loc>https://www.sinclele.online/tags/Kafka/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sinclele.online/tags/Spark/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -426,14 +426,14 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/%E5%A0%86%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://www.sinclele.online/tags/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
+    <loc>https://www.sinclele.online/tags/%E5%A0%86%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -454,13 +454,6 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F/</loc>
-    <lastmod>2024-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sinclele.online/tags/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -468,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://www.sinclele.online/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://www.sinclele.online/tags/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -476,6 +469,13 @@
   
   <url>
     <loc>https://www.sinclele.online/tags/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sinclele.online/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2024-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
