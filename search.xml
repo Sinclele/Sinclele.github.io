@@ -251,25 +251,6 @@
     
     
     <entry>
-      <title>Docker用法</title>
-      <link href="/posts/c97c4a6b.html"/>
-      <url>/posts/c97c4a6b.html</url>
-      
-        <content type="html"><![CDATA[<h1>Docker</h1><h2 id="Docker简介">Docker简介</h2><p>Docker 是一个用于开发、交付和运行应用程序的开放平台。 Docker 使您能够将应用程序与基础架构分离，以便您 可以快速交付软件。使用 Docker，您可以在 与管理应用程序的方式相同。通过利用 Docker 的 快速传送、测试和部署代码的方法，您可以 显著减少编写代码和在生产环境中运行代码之间的延迟。</p><h2 id="Docker常用命令">Docker常用命令</h2><table><thead><tr><th>命令</th><th>命令作用</th></tr></thead><tbody><tr><td>Docker run  -i 建立交互式界面  -t 建立终端 --name 启动的镜像取名</td><td>运行镜像</td></tr><tr><td>Docker images</td><td>查看镜像</td></tr><tr><td>Docker pull</td><td>拉取镜像</td></tr><tr><td>Docker ps -a 查看所有镜像运行</td><td>查看运行状态</td></tr><tr><td>Docker stop</td><td>停止运行</td></tr><tr><td>Docker kill</td><td>杀死进程</td></tr><tr><td>Docker run -d -m --name -p</td><td>守护容器，分配内存，容器名称，映射端口号</td></tr><tr><td>Docker log 容器ID</td><td>查看容器日志</td></tr><tr><td>Docker top</td><td>查看容器内运行进程</td></tr><tr><td>Docker inspect  容器ID</td><td>查看容器内运行细节</td></tr><tr><td>ctrl+p+q</td><td>退出容器但不停止</td></tr><tr><td>docker exec -it 容器id /bin/bash  （打开容器，启动新的进程）</td><td>重新进入容器</td></tr><tr><td>docker attach -it 容器id （不会打开新的进程）</td><td>重新进行容器</td></tr><tr><td>docker cp 容器内路径 主机路径</td><td>拷贝</td></tr><tr><td>docker export 容器id &gt; .tar 导出</td><td>容器备份</td></tr><tr><td>docker import</td><td>导入</td></tr><tr><td>docker inspect</td><td>查看容器基本信息</td></tr><tr><td>sudo docker exec -it -u root kylin /bin/bash</td><td>进去docker容器</td></tr><tr><td>sudo service docker restart</td><td>重启docker服务</td></tr><tr><td>docker rm -f <containerid></td><td>删除指定容器</td></tr><tr><td>docker rm $(docker ps -a|grep Exited|awk ‘{print $1}’)</td><td>删除所有退出状态容器</td></tr><tr><td>docker port</td><td>查看容器端口映射</td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Docker </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>API解析PDF</title>
       <link href="/posts/e95a0875.html"/>
       <url>/posts/e95a0875.html</url>
@@ -281,6 +262,25 @@
         <tags>
             
             <tag> API解析PDF </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Docker用法</title>
+      <link href="/posts/c97c4a6b.html"/>
+      <url>/posts/c97c4a6b.html</url>
+      
+        <content type="html"><![CDATA[<h1>Docker</h1><h2 id="Docker简介">Docker简介</h2><p>Docker 是一个用于开发、交付和运行应用程序的开放平台。 Docker 使您能够将应用程序与基础架构分离，以便您 可以快速交付软件。使用 Docker，您可以在 与管理应用程序的方式相同。通过利用 Docker 的 快速传送、测试和部署代码的方法，您可以 显著减少编写代码和在生产环境中运行代码之间的延迟。</p><h2 id="Docker常用命令">Docker常用命令</h2><table><thead><tr><th>命令</th><th>命令作用</th></tr></thead><tbody><tr><td>Docker run  -i 建立交互式界面  -t 建立终端 --name 启动的镜像取名</td><td>运行镜像</td></tr><tr><td>Docker images</td><td>查看镜像</td></tr><tr><td>Docker pull</td><td>拉取镜像</td></tr><tr><td>Docker ps -a 查看所有镜像运行</td><td>查看运行状态</td></tr><tr><td>Docker stop</td><td>停止运行</td></tr><tr><td>Docker kill</td><td>杀死进程</td></tr><tr><td>Docker run -d -m --name -p</td><td>守护容器，分配内存，容器名称，映射端口号</td></tr><tr><td>Docker log 容器ID</td><td>查看容器日志</td></tr><tr><td>Docker top</td><td>查看容器内运行进程</td></tr><tr><td>Docker inspect  容器ID</td><td>查看容器内运行细节</td></tr><tr><td>ctrl+p+q</td><td>退出容器但不停止</td></tr><tr><td>docker exec -it 容器id /bin/bash  （打开容器，启动新的进程）</td><td>重新进入容器</td></tr><tr><td>docker attach -it 容器id （不会打开新的进程）</td><td>重新进行容器</td></tr><tr><td>docker cp 容器内路径 主机路径</td><td>拷贝</td></tr><tr><td>docker export 容器id &gt; .tar 导出</td><td>容器备份</td></tr><tr><td>docker import</td><td>导入</td></tr><tr><td>docker inspect</td><td>查看容器基本信息</td></tr><tr><td>sudo docker exec -it -u root kylin /bin/bash</td><td>进去docker容器</td></tr><tr><td>sudo service docker restart</td><td>重启docker服务</td></tr><tr><td>docker rm -f <containerid></td><td>删除指定容器</td></tr><tr><td>docker rm $(docker ps -a|grep Exited|awk ‘{print $1}’)</td><td>删除所有退出状态容器</td></tr><tr><td>docker port</td><td>查看容器端口映射</td></tr><tr><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Docker </tag>
             
         </tags>
       
